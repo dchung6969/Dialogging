@@ -1,0 +1,326 @@
+[
+	[
+		{
+			"speaker" : "Duncan",
+			"dialog" : "What bloody man is that? He can report,",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "Duncan",
+			"dialog" : "As seemeth by his plight, of the revolt"
+		},
+		{
+			"speaker" : "Duncan",
+			"dialog" : "The newest state."
+		},
+		{
+			"speaker" : "Malcolm",
+			"dialog" : "This is the sergeant",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "Malcolm",
+			"dialog" : "Who like a good and hardy soldier fought"
+		},
+		{
+			"speaker" : "Malcolm",
+			"dialog" : "'Gainst my captivity. Hail, brave friend!"
+		},
+		{
+			"speaker" : "Malcolm",
+			"dialog" : "Say to the king the knowledge of the broil"
+		},
+		{
+			"speaker" : "Malcolm",
+			"dialog" : "As thou didst leave it."
+		},
+		{
+			"speaker" : "Sergeant",
+			"dialog" : "Doubtful it stood;",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "Sergeant",
+			"dialog" : "As two spent swimmers, that do cling together"
+		},
+		{
+			"speaker" : "Sergeant",
+			"dialog" : "And choke their art. The merciless Macdonwald--"
+		},
+		{
+			"speaker" : "Sergeant",
+			"dialog" : "Worthy to be a rebel, for to that"
+		},
+		{
+			"speaker" : "Sergeant",
+			"dialog" : "The multiplying villanies of nature"
+		},
+		{
+			"speaker" : "Sergeant",
+			"dialog" : "Do swarm upon him--from the western isles"
+		},
+		{
+			"speaker" : "Sergeant",
+			"dialog" : "Of kerns and gallowglasses is supplied;"
+		},
+		{
+			"speaker" : "Sergeant",
+			"dialog" : "And fortune, on his damned quarrel smiling,"
+		},
+		{
+			"speaker" : "Sergeant",
+			"dialog" : "Show'd like a rebel's whore: but all's too weak:"
+		},
+		{
+			"speaker" : "Sergeant",
+			"dialog" : "For brave Macbeth--well he deserves that name--"
+		},
+		{
+			"speaker" : "Sergeant",
+			"dialog" : "Disdaining fortune, with his brandish'd steel,"
+		},
+		{
+			"speaker" : "Sergeant",
+			"dialog" : "Which smoked with bloody execution,"
+		},
+		{
+			"speaker" : "Sergeant",
+			"dialog" : "Like valour's minion carved out his passage"
+		},
+		{
+			"speaker" : "Sergeant",
+			"dialog" : "Till he faced the slave;"
+		},
+		{
+			"speaker" : "Sergeant",
+			"dialog" : "Which ne'er shook hands, nor bade farewell to him,"
+		},
+		{
+			"speaker" : "Sergeant",
+			"dialog" : "Till he unseam'd him from the nave to the chaps,"
+		},
+		{
+			"speaker" : "Sergeant",
+			"dialog" : "And fix'd his head upon our battlements."
+		},
+		{
+			"speaker" : "Duncan",
+			"dialog" : "O valiant cousin! worthy gentleman!",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "Sergeant",
+			"dialog" : "As whence the sun 'gins his reflection",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "Sergeant",
+			"dialog" : "Shipwrecking storms and direful thunders break,"
+		},
+		{
+			"speaker" : "Sergeant",
+			"dialog" : "So from that spring whence comfort seem'd to come"
+		},
+		{
+			"speaker" : "Sergeant",
+			"dialog" : "Discomfort swells. Mark, king of Scotland, mark:"
+		},
+		{
+			"speaker" : "Sergeant",
+			"dialog" : "No sooner justice had with valour arm'd"
+		},
+		{
+			"speaker" : "Sergeant",
+			"dialog" : "Compell'd these skipping kerns to trust their heels,"
+		},
+		{
+			"speaker" : "Sergeant",
+			"dialog" : "But the Norweyan lord surveying vantage,"
+		},
+		{
+			"speaker" : "Sergeant",
+			"dialog" : "With furbish'd arms and new supplies of men"
+		},
+		{
+			"speaker" : "Sergeant",
+			"dialog" : "Began a fresh assault."
+		},
+		{
+			"speaker" : "Duncan",
+			"dialog" : "Dismay'd not this",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "Duncan",
+			"dialog" : "Our captains, Macbeth and Banquo?"
+		},
+		{
+			"speaker" : "Sergeant",
+			"dialog" : "Yes;",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "Sergeant",
+			"dialog" : "As sparrows eagles, or the hare the lion."
+		},
+		{
+			"speaker" : "Sergeant",
+			"dialog" : "If I say sooth, I must report they were"
+		},
+		{
+			"speaker" : "Sergeant",
+			"dialog" : "As cannons overcharged with double cracks, so they"
+		},
+		{
+			"speaker" : "Sergeant",
+			"dialog" : "Doubly redoubled strokes upon the foe:"
+		},
+		{
+			"speaker" : "Sergeant",
+			"dialog" : "Except they meant to bathe in reeking wounds,"
+		},
+		{
+			"speaker" : "Sergeant",
+			"dialog" : "Or memorise another Golgotha,"
+		},
+		{
+			"speaker" : "Sergeant",
+			"dialog" : "I cannot tell."
+		},
+		{
+			"speaker" : "Sergeant",
+			"dialog" : "But I am faint, my gashes cry for help."
+		},
+		{
+			"speaker" : "Duncan",
+			"dialog" : "So well thy words become thee as thy wounds;",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "Duncan",
+			"dialog" : "They smack of honour both. Go get him surgeons."
+		},
+		{
+			"speaker" : "Duncan",
+			"dialog" : "Who comes here?"
+		},
+		{
+			"speaker" : "Malcolm",
+			"dialog" : "The worthy thane of Ross.",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "Lennox",
+			"dialog" : "What a haste looks through his eyes! So should he look",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "Lennox",
+			"dialog" : "That seems to speak things strange."
+		},
+		{
+			"speaker" : "Ross",
+			"dialog" : "God save the king!",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "Duncan",
+			"dialog" : "Whence camest thou, worthy thane?",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "Ross",
+			"dialog" : "From Fife, great king;",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "Ross",
+			"dialog" : "Where the Norweyan banners flout the sky"
+		},
+		{
+			"speaker" : "Ross",
+			"dialog" : "And fan our people cold. Norway himself,"
+		},
+		{
+			"speaker" : "Ross",
+			"dialog" : "With terrible numbers,"
+		},
+		{
+			"speaker" : "Ross",
+			"dialog" : "Assisted by that most disloyal traitor"
+		},
+		{
+			"speaker" : "Ross",
+			"dialog" : "The thane of Cawdor, began a dismal conflict;"
+		},
+		{
+			"speaker" : "Ross",
+			"dialog" : "Till that Bellona's bridegroom, lapp'd in proof,"
+		},
+		{
+			"speaker" : "Ross",
+			"dialog" : "Confronted him with self-comparisons,"
+		},
+		{
+			"speaker" : "Ross",
+			"dialog" : "Point against point rebellious, arm 'gainst arm.;"
+		},
+		{
+			"speaker" : "Ross",
+			"dialog" : "Curbing his lavish spirit: and, to conclude,"
+		},
+		{
+			"speaker" : "Ross",
+			"dialog" : "The victory fell on us."
+		},
+		{
+			"speaker" : "Duncan",
+			"dialog" : "Great happiness!",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "Ross",
+			"dialog" : "That now",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "Ross",
+			"dialog" : "Sweno, the Norways' king, craves composition:"
+		},
+		{
+			"speaker" : "Ross",
+			"dialog" : "Nor would we deign him burial of his men"
+		},
+		{
+			"speaker" : "Ross",
+			"dialog" : "Till he disbursed at Saint Colme's inch"
+		},
+		{
+			"speaker" : "Ross",
+			"dialog" : "Ten thousand dollars to our general use."
+		},
+		{
+			"speaker" : "Duncan",
+			"dialog" : "No more that thane of Cawdor shall deceive",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "Duncan",
+			"dialog" : "Our bosom interest: go pronounce his present death,"
+		},
+		{
+			"speaker" : "Duncan",
+			"dialog" : "And with his former title greet Macbeth."
+		},
+		{
+			"speaker" : "Ross",
+			"dialog" : "I'll see it done.",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "Duncan",
+			"dialog" : "What he hath lost noble Macbeth hath won.",
+			"newSpeaker" : "true"
+		}
+	]
+]
