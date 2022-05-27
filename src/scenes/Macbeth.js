@@ -28,11 +28,11 @@ class Macbeth extends Phaser.Scene {
         this.nextText = null;			// player prompt text to continue typing
 
         // character variables
-        this.duncan = null;
-        this.malcolm = null;
-        this.sergeant = null;
-        this.lennox = null;
-        this.ross = null;
+        this.Duncan = null;
+        this.Malcolm = null;
+        this.Sergeant = null;
+        this.Lennox = null;
+        this.Ross = null;
         this.tweenDuration = 500;
 
         this.OFFSCREEN_X = -500;        // x,y values to place characters offscreen
@@ -52,11 +52,11 @@ class Macbeth extends Phaser.Scene {
         this.nextText = this.add.bitmapText(this.NEXT_X, this.NEXT_Y, this.DBOX_FONT, '', this.TEXT_SIZE);
 
         // ready the character dialog images offscreen
-        this.duncan = this.add.sprite(this.OFFSCREEN_X, this.DBOX_Y+8, 'duncan').setOrigin(0, 1);
-        this.malcolm = this.add.sprite(this.OFFSCREEN_X, this.DBOX_Y+8, 'malcolm').setOrigin(0, 1);
-        this.sergeant = this.add.sprite(this.OFFSCREEN_X, this.DBOX_Y+8, 'sergeant').setOrigin(0, 1);
-        this.lennox = this.add.sprite(this.OFFSCREEN_X, this.DBOX_Y+8, 'lennox').setOrigin(0, 1);
-        this.ross = this.add.sprite(this.OFFSCREEN_X, this.DBOX_Y+8, 'ross').setOrigin(0, 1);
+        this.Duncan = this.add.sprite(this.OFFSCREEN_X, this.DBOX_Y+8, 'duncan').setOrigin(0, 1);
+        this.Malcolm = this.add.sprite(this.OFFSCREEN_X, this.DBOX_Y+8, 'malcolm').setOrigin(0, 1);
+        this.Sergeant = this.add.sprite(this.OFFSCREEN_X, this.DBOX_Y+8, 'sergeant').setScale(0.5).setOrigin(0, 1);
+        this.Lennox = this.add.sprite(this.OFFSCREEN_X, this.DBOX_Y+8, 'lennox').setOrigin(0, 1);
+        this.Ross = this.add.sprite(this.OFFSCREEN_X, this.DBOX_Y+8, 'ross').setScale(0.4).setOrigin(0, 1);
 
         // input
         cursors = this.input.keyboard.createCursorKeys();
