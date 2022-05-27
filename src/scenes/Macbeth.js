@@ -41,7 +41,7 @@ class Macbeth extends Phaser.Scene {
 
     create() {
         // parse dialog from JSON file
-        this.dialog = this.cache.json.get('machbeth');
+        this.dialog = this.cache.json.get('macbeth');
         //console.log(this.dialog);
 
         // add dialog box sprite
